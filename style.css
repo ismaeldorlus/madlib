@@ -1,0 +1,50 @@
+html {
+  background-image: url(sky.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+body {
+  background-color: white;
+  width: 450px;
+  margin: 50px auto;
+  padding: 20px 90px 50px 90px;
+  border-radius: 20px;
+}
+
+h2,
+h1 {
+  color: blue;
+  font-variant: small-caps;
+}
+
+#sentence {
+  font-size: 15px;
+  border: 3px solid orange;
+  padding: 15px;
+  font-family: "Roboto", sans-serif;
+}
+
+button {
+  background: lightskyblue;
+  padding: 2px 20px 2px 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+button:hover {
+  cursor: pointer;
+}
+
+#mad2 {
+  background: rgb(250, 135, 135);
+  padding: 2px 20px 2px 20px;
+  border-radius: 5px;
+  border: 1px solid black;
+}
+
+#sentence2 {
+  font-size: 15px;
+  border: 3px solid orange;
+  padding: 15px;
+  font-family: "Roboto", sans-serif;
+}
